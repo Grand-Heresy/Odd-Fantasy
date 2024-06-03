@@ -1,0 +1,10 @@
+[
+    //Age of Blooming
+    {
+      "columnNumber": 0,
+      "era": "Age of Blooming",
+      "buildingcost": 60,
+      "wondercost": 210,
+      "techs": [
+          {
+            "name": "
